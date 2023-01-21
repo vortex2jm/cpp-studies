@@ -10,7 +10,7 @@ int main(int argc, char const *argv[])
         pt[i] = new int[5];
     }
 
-    // Filling 
+    // Filling fields
     int value = 1;
     for(int l=0; l<5; l++){
         for(int c=0; c<5; c++){
